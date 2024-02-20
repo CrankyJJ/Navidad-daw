@@ -2,6 +2,8 @@ package polonorte;
 
 import java.time.LocalDate;
 
+import com.polonorte.elfos.Diego;
+import com.polonorte.elfos.ElfoGenerico;
 
 public class PruebaNavidad {
 
